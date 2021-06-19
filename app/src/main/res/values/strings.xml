@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="get_advice">Get Advice</string>
+    <string name="us_imperial">US Imperial</string>
+    <string name="metric_system">Metric System</string>
+</resources>
